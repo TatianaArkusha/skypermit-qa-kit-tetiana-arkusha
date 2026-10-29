@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: suspended-operator-submit
+expected_outcome: |
+  Один кейс зі Status Blocked (#4 з 05-open-questions.md); Expected result не вигадує код відповіді, а вказує, що поведінка не визначена.

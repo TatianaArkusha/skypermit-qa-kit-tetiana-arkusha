@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: api-contract-plan
+expected_outcome: |
+  Односторінковий план українською для API-контракту з таблицею стратегії вручну/автоматизовано, ризиками щодо автентифікації оператора та X-Reviewer-Id, відкритим питанням про SUSPENDED з 05; збережено як plan-api-contract.md.

@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "deny": [
+      "Edit(../skypermit/**)",
+      "Write(../skypermit/**)",
+      "Edit(//c/Users/Alona/Documents/workspace/skypermit/**)",
+      "Write(//c/Users/Alona/Documents/workspace/skypermit/**)",
+      "WebFetch",
+      "WebSearch"
+    ]
+  }
+}

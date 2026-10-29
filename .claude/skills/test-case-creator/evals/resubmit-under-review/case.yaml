@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: resubmit-under-review
+expected_outcome: |
+  Один файл test-cases/state-machine/TC-SM-003.md (001 і 002 уже існують) з усіма вісьмома полями; Expected result — 409, стан лишається UNDER_REVIEW; Doc ref на 02-state-machine.md; Priority High; Status Ready.
+context:
+  scaffold_script: place-files.sh
